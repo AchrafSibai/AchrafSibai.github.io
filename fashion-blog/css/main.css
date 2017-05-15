@@ -1,0 +1,35 @@
+li{
+	display:inline;
+	color: grey;
+	margin: 10px 10px;
+}
+h1{
+	color: red;
+}
+.date{
+	color: #cccccc;
+}
+
+h2{
+color: black;
+}
+h3{
+	color: black;
+}
+
+.copyright{
+	color:#bbbbbb;
+}
+
+footer{
+	color:red;
+}
+body{
+	width: 720px;
+	padding: 54px;
+	margin: ;
+}
+a{
+	color:#DD0000;
+	a:hover:#aa0000;
+}
