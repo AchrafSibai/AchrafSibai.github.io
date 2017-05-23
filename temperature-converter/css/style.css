@@ -1,0 +1,11 @@
+  .box {
+  width: 500px;
+  background: rgb(0, 222, 222);
+  text-align: center;
+  margin: 0 auto;
+  padding: 40px 50px;}
+
+ input{
+ 	width: 80px;
+ 	text-align: right;
+ }
